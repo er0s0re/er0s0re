@@ -1,24 +1,24 @@
-## Hai, Saya Eros Alfedo Hermanato 🌱
+## Hi, I'm Eros Alfedo Hermanato 🌱
 
-Saya adalah seorang mahasiswa di Universitas Islam Negeri (UIN) Walisongo Semarang, jurusan Teknologi Informasi, yang memiliki semangat tinggi dalam dunia web dan data. Saya senang mempelajari teknologi baru dan ingin terus berkembang dalam bidang ini.
+I am a student at the State Islamic University (UIN) Walisongo Semarang, majoring in Information Technology, who is passionate about web and data. I love learning new technologies and want to keep growing in this field.
 
-### Tentang Saya
+### About Me
 
-- 📚 Saya tengah mengejar pendidikan di bidang Teknologi Informasi di UIN Walisongo Semarang.
-- 🌐 Saya sedang mempelajari pengembangan web menggunakan HTML, CSS, dan mulai menggali JavaScript.
-- 📊 Saya juga tertarik dalam analisis data dan sedang memahami dasar-dasar pengolahan data dengan alat seperti Python.
-- 🚀 Saya memiliki semangat tinggi untuk belajar dan menjelajahi berbagai aspek teknologi.
+- 📚 I am pursuing my education in Information Technology at UIN Walisongo Semarang.
+- 🌐 I'm learning web development using HTML, CSS, and starting to dig into JavaScript.
+- 📊 I am also interested in data analysis and am getting to grips with the basics of data processing with tools like Python.
+- 🚀 I have a great passion for learning and exploring different aspects of technology.
 
-### Proyek dan Tujuan
+### Projects and Goals
 
-Saat ini, saya sedang:
+Currently, I am:
 
-- 🎓 Menyelesaikan proyek-proyek dalam lingkup pengembangan web sebagai bagian dari perjalanan pembelajaran saya.
-- 📈 Memperdalam pengetahuan saya tentang analisis data dan berharap dapat menerapkannya dalam proyek masa depan.
-- 🌱 Terlibat dalam kegiatan dan kelompok belajar untuk bersama-sama memahami konsep-konsep yang lebih dalam.
+- 🎓 Completing projects in the web development space as part of my learning journey.
+- 📈 Deepening my knowledge of data analysis and hoping to apply it in future projects.
+- 🌱 Engaging in activities and study groups to collectively understand deeper concepts.
 
-### Kontak
+### Contact
 
-Saya sangat senang berkenalan dan berkolaborasi. Jika Anda ingin berbicara tentang pengalaman belajar, proyek, atau ingin berbagi pengetahuan, silakan hubungi saya melalui [email](mailto:erosalfedo1@gmail.com) atau kunjungi profil [LinkedIn](https://www.linkedin.com/in/eros-alfedo-hermanto-644b95223/).
+I am very happy to get acquainted and collaborate. If you want to talk about your learning experience, projects, or want to share your knowledge, please contact me via [email](mailto:erosalfedo1@gmail.com) or visit my [LinkedIn](https://www.linkedin.com/in/eros-alfedo-hermanto-644b95223/) profile.
 
-Mari belajar dan berkembang bersama dalam dunia teknologi yang penuh potensi! 🌟
+Let's learn and grow together in the world of technology full of potential! 🌟
