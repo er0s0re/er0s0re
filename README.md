@@ -1,4 +1,4 @@
-## Hi, I'm Eros Alfedo Hermanato 🌱
+## Hi, I'm Eros Alfedo Hermanto 🌱
 
 I am a student at the State Islamic University (UIN) Walisongo Semarang, majoring in Information Technology, who is passionate about web and data. I love learning new technologies and want to keep growing in this field.
 
